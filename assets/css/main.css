@@ -2631,3 +2631,22 @@ input, select, textarea {
 				}
 
 	}
+
+	#thankyou {
+		font-weight: bold;
+		font-size: 80px;
+		line-height: 123px;
+	}
+	.left {
+		display: inline-block;
+	}
+
+	.left .button {
+		background-color: #545b61;
+		color: rgb(214, 203, 203);
+		padding: 0px 13px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+	}
